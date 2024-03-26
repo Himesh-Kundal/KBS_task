@@ -5,6 +5,14 @@
 
 **Unique Addresses in the Funders Array - Done**
 
+checked for repeated address , if any then added its new funds into previous funds
+
+
 **Transfer Ownership Functionality - Done**
 
+made a function to change withrawl address only accessible by deployer.
+
+
 **Removal of Chain-Link Integration - Done**
+
+Removed.
